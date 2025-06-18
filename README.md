@@ -43,12 +43,20 @@
 
 project/
 │
+<<<<<<< HEAD
 ├── index.html
 ├── style.css
 ├── img/
 │ └── background.png
 ├── README.md
 
+=======
+├── index.html 
+├── style.css      
+├── img/              
+│   └── background.png
+├── README.md        
+>>>>>>> c1446310bd58c866daa78bc57b0ad251f6c2e1c6
 
 ---
 
@@ -58,6 +66,15 @@ project/
 
 ---
 
+<<<<<<< HEAD
+=======
+## 🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+>>>>>>> c1446310bd58c866daa78bc57b0ad251f6c2e1c6
 ## 📞 Contact
 
 **Santhosh**  
