@@ -34,11 +34,11 @@ BiteRush is a beautifully crafted and fully responsive **e-commerce frontend** b
 ![Hero Preview](![Screenshot 2025-06-20 154304](https://github.com/user-attachments/assets/231f1a93-4f8f-4143-acb2-2aad1e4f291c))
 
 ### 📁 Folder Structure
-project/
-├── index.html # Main HTML file
-├── style.css # CSS styling
-├── img/ # All images (hero, products, background)
-│ └── background.png
+project/ <br>
+├── index.html # Main HTML file<br>
+├── style.css # CSS styling<br>
+├── img/ # All images (hero, products, background)<br>
+│ └── background.png<br>
 └── README.md # Project overview and usage
 
 ---
