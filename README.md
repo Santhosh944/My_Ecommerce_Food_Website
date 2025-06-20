@@ -1,86 +1,58 @@
-<h1 align="center">🌟 E-Commerce Frontend Project 🌟</h1>
+project:
+  name: "BiteRush - E-Commerce Frontend Project"
+  description: >
+    A beautifully designed and responsive e-commerce frontend built with HTML and CSS. 
+    This project showcases a stylish landing page with a modern layout, engaging hero sections, 
+    and interactive product & customer cards. Perfect for food-based or general e-commerce platforms.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-100%25-orange?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-Styled-blue?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/Responsive-Yes-brightgreen?style=flat-square&logo=responsive-design" />
-</p>
+  features:
+    - "🎨 Elegant Hero Section – Eye-catching landing area with bold fonts and call-to-action button"
+    - "🛍️ Product Cards – Displays products with images, star ratings, discounts, and cart buttons"
+    - "💬 Customer Review Section – Beautiful testimonial cards with profile pictures and reviews"
+    - "📱 Fully Responsive – Flexbox-based layout adapts smoothly to all screen sizes"
+    - "🎯 Custom Styling – Clean CSS modules and Google Fonts for a modern aesthetic"
+    - "⭐ Icons Integration – Uses Boxicons for icons like cart, star ratings, and social features"
 
-<p align="center">✨ A beautifully designed e-commerce frontend with stylish layout, custom buttons, modern fonts, and responsive design. ✨</p>
+  live_demo: "Coming Soon (Host on GitHub Pages, Netlify, or Vercel)"
 
----
+  preview:
+    hero_section: "./img/hero-preview.png"
+    product_cards: "./img/product-preview.png"
 
-## 🚀 Features
+  tech_stack:
+    - tech: "HTML"
+      description: "Page structure & layout"
+    - tech: "CSS"
+      description: "Styling using Flexbox & Grid"
+    - tech: "Google Fonts"
+      description: "Poppins font for modern typography"
+    - tech: "Boxicons"
+      description: "Lightweight, customizable icons"
 
-- 🎨 Stylish hero sections with custom fonts
-- 🛍️ Product cards with ratings, discounts & cart buttons
-- ⭐ Customer review cards with profile images
-- 🧩 Modular components using clean CSS
-- 💬 Responsive layout with Flexbox
+  folder_structure: |
+    project/
+    ├── index.html           # Main HTML file
+    ├── style.css            # CSS styling
+    ├── img/                 # All images including background and hero image
+    │   └── background.png
+    └── README.md            # Project description
 
----
+  usage_instructions:
+    - "Clone the repository:"
+    - "```bash"
+    - "git clone https://github.com/your-username/biterush-ecommerce.git"
+    - "```"
+    - "Open `index.html` in your browser"
+    - "Customize content and styling as needed"
 
-## 💻 Tech Stack
+  contributing: >
+    Pull requests are welcome! For major changes, please open an issue first 
+    to discuss what you'd like to change.
 
-| Tech | Description |
-|------|-------------|
-| HTML | Page structure |
-| CSS  | Styling and layout |
-| Google Fonts | Poppins font for clean, modern look |
-| Boxicons | Icons for cart, heart, star ratings |
+  license:
+    type: "MIT"
+    url: "https://choosealicense.com/licenses/mit/"
 
----
-
-## 📸 Screenshots
-
-| Hero Section | Product Cards |
-|--------------|----------------|
-| ![Hero](https://via.placeholder.com/400x200?text=Hero+Section) | ![Cards](https://via.placeholder.com/400x200?text=Product+Cards) |
-
----
-
-## 📁 Folder Structure
-
-project/
-│
-<<<<<<< HEAD
-├── index.html
-├── style.css
-├── img/
-│ └── background.png
-├── README.md
-
-=======
-├── index.html 
-├── style.css      
-├── img/              
-│   └── background.png
-├── README.md        
->>>>>>> c1446310bd58c866daa78bc57b0ad251f6c2e1c6
-
----
-
-## 🌐 Live Preview
-
-> Coming Soon (or you can host on GitHub Pages / Netlify)
-
----
-
-<<<<<<< HEAD
-=======
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
->>>>>>> c1446310bd58c866daa78bc57b0ad251f6c2e1c6
-## 📞 Contact
-
-**Santhosh**  
-📬 [santhosh.v.ai16@example.com]  
-🌐 [LinkedIn](https://www.linkedin.com/in/santhosh-vinayagam/)
-
----
-
-⭐ _If you like this project, give it a star on GitHub!_  
+  author:
+    name: "Santhosh"
+    description: "Passionate frontend enthusiast on a journey to build beautiful, functional websites."
